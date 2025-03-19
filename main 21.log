@@ -1,0 +1,2239 @@
+[2025-02-12 14:59:45.475] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] DevSubscriptionManager Timeout deviceId: ddff46e1-0000-11dd-a000-000eddcccccc Property Subscribe: \nNETWORK_AUDIO:CONTROL_SWITCH_CONFIGURATION, \n"
+}
+[2025-02-12 14:59:45.476] [error] [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::NetworkDeviceBase::HandleOnMySusbcribeRequestComplete: [mdulType:MODULE_NETWORK_AUDIO_ETHERNET|devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46e1-0000-11dd-a000-000eddcccccc|devSt:DS_INITIALIZING|protId:ESTA.DMP|protAddr:192.168.10.22] Subscription rejected. Key: NETWORK_AUDIO:CONTROL_SWITCH_CONFIGURATION Error: PRV_ERR_NETWORK_ERROR"
+}
+[2025-02-12 14:59:45.476] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::Phase::ProcessSubscrResponse: [phOrd:0|phOvSt:PRCS_RUNNING_SUB|phSubSt:PCR_UNAVAILABLE|phGetSt:PCR_UNAVAILABLE|phSubStats:110-0-0|phGetStats:0-0-0|devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46e1-0000-11dd-a000-000eddcccccc] PHASE retrying SUBSCRIBE, retry # 110. Retrying in 3072 ms."
+}
+[2025-02-12 14:59:51.626] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] DevSubscriptionManager Timeout deviceId: ddff46e1-0000-11dd-a000-000eddcccccc Property Get: \nGENERIC:SERIAL_NUM, GENERIC:PRODUCT_FIRMWARE_VALID, GENERIC:PRODUCT_FIRMWARE_VERSION, \n"
+}
+[2025-02-12 14:59:51.626] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::Phase::ProcessGetResponse: [phOrd:0|phOvSt:PRCS_RUNNING_GET|phSubSt:PCR_SUCCEES|phGetSt:PCR_UNAVAILABLE|phSubStats:0-0-0|phGetStats:333-0-0|devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46e1-0000-11dd-a000-000eddcccccc] PHASE retrying GET, retry # 111. Retrying in 2780 ms."
+}
+[2025-02-12 14:59:57.677] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] DevSubscriptionManager Timeout deviceId: ddff46e1-0000-11dd-a000-000eddcccccc Property Subscribe: \nNETWORK_AUDIO:CONTROL_SWITCH_CONFIGURATION, \n"
+}
+[2025-02-12 14:59:57.677] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::NetworkDeviceBase::HandleOnSubscribeRequestComplete: [mdulType:MODULE_NETWORK_AUDIO_ETHERNET|devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46e1-0000-11dd-a000-000eddcccccc|devSt:DS_INITIALIZING|protId:ESTA.DMP|protAddr:192.168.10.22] Unexpected subscription reference (myRef != subscrRef) received : 0x000002168CAC4780"
+}
+[2025-02-12 14:59:57.678] [error] [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::NetworkDeviceBase::HandleOnMySusbcribeRequestComplete: [mdulType:MODULE_NETWORK_AUDIO_ETHERNET|devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46e1-0000-11dd-a000-000eddcccccc|devSt:DS_INITIALIZING|protId:ESTA.DMP|protAddr:192.168.10.22] Subscription rejected. Key: NETWORK_AUDIO:CONTROL_SWITCH_CONFIGURATION Error: PRV_ERR_NETWORK_ERROR"
+}
+[2025-02-12 14:59:57.678] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::Phase::ProcessSubscrResponse: [phOrd:0|phOvSt:PRCS_RUNNING_SUB|phSubSt:PCR_UNAVAILABLE|phGetSt:PCR_UNAVAILABLE|phSubStats:111-0-0|phGetStats:0-0-0|devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46e1-0000-11dd-a000-000eddcccccc] PHASE retrying SUBSCRIBE, retry # 111. Retrying in 2789 ms."
+}
+[2025-02-12 15:00:03.828] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] DevSubscriptionManager Timeout deviceId: ddff46e1-0000-11dd-a000-000eddcccccc Property Get: \nGENERIC:SERIAL_NUM, GENERIC:PRODUCT_FIRMWARE_VALID, GENERIC:PRODUCT_FIRMWARE_VERSION, \n"
+}
+[2025-02-12 15:00:03.828] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::Phase::ProcessGetResponse: [phOrd:0|phOvSt:PRCS_RUNNING_GET|phSubSt:PCR_SUCCEES|phGetSt:PCR_UNAVAILABLE|phSubStats:0-0-0|phGetStats:336-0-0|devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46e1-0000-11dd-a000-000eddcccccc] PHASE retrying GET, retry # 112. Retrying in 4680 ms."
+}
+[2025-02-12 15:00:09.879] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] DevSubscriptionManager Timeout deviceId: ddff46e1-0000-11dd-a000-000eddcccccc Property Subscribe: \nNETWORK_AUDIO:CONTROL_SWITCH_CONFIGURATION, \n"
+}
+[2025-02-12 15:00:09.880] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::NetworkDeviceBase::HandleOnSubscribeRequestComplete: [mdulType:MODULE_NETWORK_AUDIO_ETHERNET|devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46e1-0000-11dd-a000-000eddcccccc|devSt:DS_INITIALIZING|protId:ESTA.DMP|protAddr:192.168.10.22] Unexpected subscription reference (myRef != subscrRef) received : 0x000002168CAC4780"
+}
+[2025-02-12 15:00:09.880] [error] [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::NetworkDeviceBase::HandleOnMySusbcribeRequestComplete: [mdulType:MODULE_NETWORK_AUDIO_ETHERNET|devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46e1-0000-11dd-a000-000eddcccccc|devSt:DS_INITIALIZING|protId:ESTA.DMP|protAddr:192.168.10.22] Subscription rejected. Key: NETWORK_AUDIO:CONTROL_SWITCH_CONFIGURATION Error: PRV_ERR_NETWORK_ERROR"
+}
+[2025-02-12 15:00:09.880] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::Phase::ProcessSubscrResponse: [phOrd:0|phOvSt:PRCS_RUNNING_SUB|phSubSt:PCR_UNAVAILABLE|phGetSt:PCR_UNAVAILABLE|phSubStats:112-0-0|phGetStats:0-0-0|devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46e1-0000-11dd-a000-000eddcccccc] PHASE retrying SUBSCRIBE, retry # 112. Retrying in 4979 ms."
+}
+[2025-02-12 15:00:14.278] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::NetworkDeviceBase::HandleOnSubscribeRequestComplete: [devCat:MXWN_NDX8|devType:OPERA N NDX8|iid:1.0.0|model:MXWNDX8|devId:ddff4590-0000-11dd-a000-000eddcccccc|devSt:DS_READY|protId:ESTA.DMP|protAddr:192.168.10.102] Unexpected subscription reference (myRef != subscrRef) received : 0x000002168C0F06B0"
+}
+[2025-02-12 15:00:16.032] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] DevSubscriptionManager Timeout deviceId: ddff46e1-0000-11dd-a000-000eddcccccc Property Get: \nGENERIC:SERIAL_NUM, GENERIC:PRODUCT_FIRMWARE_VALID, GENERIC:PRODUCT_FIRMWARE_VERSION, \n"
+}
+[2025-02-12 15:00:16.033] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::Phase::ProcessGetResponse: [phOrd:0|phOvSt:PRCS_RUNNING_GET|phSubSt:PCR_SUCCEES|phGetSt:PCR_UNAVAILABLE|phSubStats:0-0-0|phGetStats:339-0-0|devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46e1-0000-11dd-a000-000eddcccccc] PHASE retrying GET, retry # 113. Retrying in 6634 ms."
+}
+[2025-02-12 15:00:21.990] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::NetworkDeviceBase::HandleOnSubscribeRequestComplete: [devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46f9-0000-11dd-a000-000eddcccccc|devSt:DS_READY|protId:ESTA.DMP|protAddr:192.168.10.97] Unexpected subscription reference (myRef != subscrRef) received : 0x000002168D428A20"
+}
+[2025-02-12 15:00:22.095] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] DevSubscriptionManager Timeout deviceId: ddff46e1-0000-11dd-a000-000eddcccccc Property Subscribe: \nNETWORK_AUDIO:CONTROL_SWITCH_CONFIGURATION, \n"
+}
+[2025-02-12 15:00:22.096] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::NetworkDeviceBase::HandleOnSubscribeRequestComplete: [mdulType:MODULE_NETWORK_AUDIO_ETHERNET|devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46e1-0000-11dd-a000-000eddcccccc|devSt:DS_INITIALIZING|protId:ESTA.DMP|protAddr:192.168.10.22] Unexpected subscription reference (myRef != subscrRef) received : 0x000002168CAC4780"
+}
+[2025-02-12 15:00:22.096] [error] [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::NetworkDeviceBase::HandleOnMySusbcribeRequestComplete: [mdulType:MODULE_NETWORK_AUDIO_ETHERNET|devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46e1-0000-11dd-a000-000eddcccccc|devSt:DS_INITIALIZING|protId:ESTA.DMP|protAddr:192.168.10.22] Subscription rejected. Key: NETWORK_AUDIO:CONTROL_SWITCH_CONFIGURATION Error: PRV_ERR_NETWORK_ERROR"
+}
+[2025-02-12 15:00:22.097] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::Phase::ProcessSubscrResponse: [phOrd:0|phOvSt:PRCS_RUNNING_SUB|phSubSt:PCR_UNAVAILABLE|phGetSt:PCR_UNAVAILABLE|phSubStats:113-0-0|phGetStats:0-0-0|devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46e1-0000-11dd-a000-000eddcccccc] PHASE retrying SUBSCRIBE, retry # 113. Retrying in 3582 ms."
+}
+[2025-02-12 15:00:28.816] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] DevSubscriptionManager Timeout deviceId: ddff46e1-0000-11dd-a000-000eddcccccc Property Get: \nGENERIC:SERIAL_NUM, GENERIC:PRODUCT_FIRMWARE_VALID, GENERIC:PRODUCT_FIRMWARE_VERSION, \n"
+}
+[2025-02-12 15:00:28.817] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::Phase::ProcessGetResponse: [phOrd:0|phOvSt:PRCS_RUNNING_GET|phSubSt:PCR_SUCCEES|phGetSt:PCR_UNAVAILABLE|phSubStats:0-0-0|phGetStats:342-0-0|devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46e1-0000-11dd-a000-000eddcccccc] PHASE retrying GET, retry # 114. Retrying in 5689 ms."
+}
+[2025-02-12 15:00:34.867] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] DevSubscriptionManager Timeout deviceId: ddff46e1-0000-11dd-a000-000eddcccccc Property Subscribe: \nNETWORK_AUDIO:CONTROL_SWITCH_CONFIGURATION, \n"
+}
+[2025-02-12 15:00:34.868] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::NetworkDeviceBase::HandleOnSubscribeRequestComplete: [mdulType:MODULE_NETWORK_AUDIO_ETHERNET|devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46e1-0000-11dd-a000-000eddcccccc|devSt:DS_INITIALIZING|protId:ESTA.DMP|protAddr:192.168.10.22] Unexpected subscription reference (myRef != subscrRef) received : 0x000002168CAC4780"
+}
+[2025-02-12 15:00:34.868] [error] [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::NetworkDeviceBase::HandleOnMySusbcribeRequestComplete: [mdulType:MODULE_NETWORK_AUDIO_ETHERNET|devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46e1-0000-11dd-a000-000eddcccccc|devSt:DS_INITIALIZING|protId:ESTA.DMP|protAddr:192.168.10.22] Subscription rejected. Key: NETWORK_AUDIO:CONTROL_SWITCH_CONFIGURATION Error: PRV_ERR_NETWORK_ERROR"
+}
+[2025-02-12 15:00:34.868] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::Phase::ProcessSubscrResponse: [phOrd:0|phOvSt:PRCS_RUNNING_SUB|phSubSt:PCR_UNAVAILABLE|phGetSt:PCR_UNAVAILABLE|phSubStats:114-0-0|phGetStats:0-0-0|devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46e1-0000-11dd-a000-000eddcccccc] PHASE retrying SUBSCRIBE, retry # 114. Retrying in 100 ms."
+}
+[2025-02-12 15:00:41.018] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] DevSubscriptionManager Timeout deviceId: ddff46e1-0000-11dd-a000-000eddcccccc Property Get: \nGENERIC:SERIAL_NUM, GENERIC:PRODUCT_FIRMWARE_VALID, GENERIC:PRODUCT_FIRMWARE_VERSION, \n"
+}
+[2025-02-12 15:00:41.019] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::Phase::ProcessGetResponse: [phOrd:0|phOvSt:PRCS_RUNNING_GET|phSubSt:PCR_SUCCEES|phGetSt:PCR_UNAVAILABLE|phSubStats:0-0-0|phGetStats:345-0-0|devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46e1-0000-11dd-a000-000eddcccccc] PHASE retrying GET, retry # 115. Retrying in 5052 ms."
+}
+[2025-02-12 15:00:46.819] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:00:47.070] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] DevSubscriptionManager Timeout deviceId: ddff46e1-0000-11dd-a000-000eddcccccc Property Subscribe: \nNETWORK_AUDIO:CONTROL_SWITCH_CONFIGURATION, \n"
+}
+[2025-02-12 15:00:47.071] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::NetworkDeviceBase::HandleOnSubscribeRequestComplete: [mdulType:MODULE_NETWORK_AUDIO_ETHERNET|devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46e1-0000-11dd-a000-000eddcccccc|devSt:DS_INITIALIZING|protId:ESTA.DMP|protAddr:192.168.10.22] Unexpected subscription reference (myRef != subscrRef) received : 0x000002168CAC4780"
+}
+[2025-02-12 15:00:47.072] [error] [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::NetworkDeviceBase::HandleOnMySusbcribeRequestComplete: [mdulType:MODULE_NETWORK_AUDIO_ETHERNET|devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46e1-0000-11dd-a000-000eddcccccc|devSt:DS_INITIALIZING|protId:ESTA.DMP|protAddr:192.168.10.22] Subscription rejected. Key: NETWORK_AUDIO:CONTROL_SWITCH_CONFIGURATION Error: PRV_ERR_NETWORK_ERROR"
+}
+[2025-02-12 15:00:47.072] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::Phase::ProcessSubscrResponse: [phOrd:0|phOvSt:PRCS_RUNNING_SUB|phSubSt:PCR_UNAVAILABLE|phGetSt:PCR_UNAVAILABLE|phSubStats:115-0-0|phGetStats:0-0-0|devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46e1-0000-11dd-a000-000eddcccccc] PHASE retrying SUBSCRIBE, retry # 115. Retrying in 5284 ms."
+}
+[2025-02-12 15:00:53.221] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] DevSubscriptionManager Timeout deviceId: ddff46e1-0000-11dd-a000-000eddcccccc Property Get: \nGENERIC:SERIAL_NUM, GENERIC:PRODUCT_FIRMWARE_VALID, GENERIC:PRODUCT_FIRMWARE_VERSION, \n"
+}
+[2025-02-12 15:00:53.222] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::Phase::ProcessGetResponse: [phOrd:0|phOvSt:PRCS_RUNNING_GET|phSubSt:PCR_SUCCEES|phGetSt:PCR_UNAVAILABLE|phSubStats:0-0-0|phGetStats:348-0-0|devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46e1-0000-11dd-a000-000eddcccccc] PHASE retrying GET, retry # 116. Retrying in 1450 ms."
+}
+[2025-02-12 15:00:53.353] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] NDL::DeviceAvailable - device with known device type is advertising an unexpected category (deviceID:1c053f99-0000-11dd-a000-000eddcccccc|deviceType:05e6cfca-fd5a-11e3-b687-0015c5f3f612|advertisedCategory:\"\"|expectedCategory:\"MXWN_BPT\")  ** Per NDL configuration, the advertised category will be corrected to \"MXWN_BPT\" **"
+}
+[2025-02-12 15:00:53.354] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] Device protocol address changed without losing discovery. Triggering rediscovery... device type: 05e6cfca-fd5a-11e3-b687-0015c5f3f612 device id: 1c053f99-0000-11dd-a000-000eddcccccc\n"
+}
+[2025-02-12 15:00:53.355] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::DeviceMergeArbitrator::AddDeviceToMergeQueue: Device ID: 1c053f99-0000-11dd-a000-000eddcccccc was already in active merge session."
+}
+[2025-02-12 15:00:53.712] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::NetworkDeviceBase::HandleOnSubscribeRequestComplete: [devCat:MXWN_BPT|devType:OPERA N BPT DM|iid:1.0.0|model:MXW1X|devId:1c053f99-0000-11dd-a000-000eddcccccc|devSt:DS_READY|protId:ESTA.DMP|protAddr:192.168.10.97] Unexpected subscription reference (myRef != subscrRef) received : 0x000002168CAC4C00"
+}
+[2025-02-12 15:00:54.154] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:00:59.272] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] DevSubscriptionManager Timeout deviceId: ddff46e1-0000-11dd-a000-000eddcccccc Property Subscribe: \nNETWORK_AUDIO:CONTROL_SWITCH_CONFIGURATION, \n"
+}
+[2025-02-12 15:00:59.273] [error] [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::NetworkDeviceBase::HandleOnMySusbcribeRequestComplete: [mdulType:MODULE_NETWORK_AUDIO_ETHERNET|devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46e1-0000-11dd-a000-000eddcccccc|devSt:DS_INITIALIZING|protId:ESTA.DMP|protAddr:192.168.10.22] Subscription rejected. Key: NETWORK_AUDIO:CONTROL_SWITCH_CONFIGURATION Error: PRV_ERR_NETWORK_ERROR"
+}
+[2025-02-12 15:00:59.273] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::Phase::ProcessSubscrResponse: [phOrd:0|phOvSt:PRCS_RUNNING_SUB|phSubSt:PCR_UNAVAILABLE|phGetSt:PCR_UNAVAILABLE|phSubStats:116-0-0|phGetStats:0-0-0|devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46e1-0000-11dd-a000-000eddcccccc] PHASE retrying SUBSCRIBE, retry # 116. Retrying in 9989 ms."
+}
+[2025-02-12 15:01:02.953] [warn]  [LoggingIpcChannel] {
+  "deviceId": "eyJ0IjoiRGV2aWNlIiwiYSI6ImRkYTZjMWQ1LTAwMDAtMTFkZC1hMDAwLTAwMGVkZGNjY2NjYyJ9",
+  "queryId": "77538f56-9687-44e7-aa37-ae728624880a",
+  "eventId": "[SysApiCoverageMapDeviceApiService ‣ getDevice$()]",
+  "message": "Getting device by id"
+}
+[2025-02-12 15:01:02.956] [warn]  [LoggingIpcChannel] {
+  "deviceId": "eyJ0IjoiRGV2aWNlIiwiYSI6ImRkZmY0NTkwLTAwMDAtMTFkZC1hMDAwLTAwMGVkZGNjY2NjYyJ9",
+  "queryId": "677484c1-1661-4e33-bc59-fa5f54a83e9c",
+  "eventId": "[SysApiCoverageMapDeviceApiService ‣ getDevice$()]",
+  "message": "Getting device by id"
+}
+[2025-02-12 15:01:02.956] [warn]  [LoggingIpcChannel] {
+  "deviceId": "eyJ0IjoiRGV2aWNlIiwiYSI6ImRkZmY0NmY5LTAwMDAtMTFkZC1hMDAwLTAwMGVkZGNjY2NjYyJ9",
+  "queryId": "7dc702fa-69c9-460c-9703-869b68951b87",
+  "eventId": "[SysApiCoverageMapDeviceApiService ‣ getDevice$()]",
+  "message": "Getting device by id"
+}
+[2025-02-12 15:01:03.795] [error] [SystemApi] {
+  "eventId": "",
+  "message": "[PHX::STDERR] [libprotobuf ERROR C:\\.conan\\2f3e61\\1\\src\\src\\google\\protobuf\\wire_format_lite.cc:618] String field 'Shure.Phoenix.PropertyData.PropertyData.stringData' contains invalid UTF-8 data when serializing a protocol buffer. Use the 'bytes' type if you intend to send raw bytes. "
+}
+[2025-02-12 15:01:05.439] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] DevSubscriptionManager Timeout deviceId: ddff46e1-0000-11dd-a000-000eddcccccc Property Get: \nGENERIC:SERIAL_NUM, GENERIC:PRODUCT_FIRMWARE_VALID, GENERIC:PRODUCT_FIRMWARE_VERSION, \n"
+}
+[2025-02-12 15:01:05.440] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::Phase::ProcessGetResponse: [phOrd:0|phOvSt:PRCS_RUNNING_GET|phSubSt:PCR_SUCCEES|phGetSt:PCR_UNAVAILABLE|phSubStats:0-0-0|phGetStats:351-0-0|devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46e1-0000-11dd-a000-000eddcccccc] PHASE retrying GET, retry # 117. Retrying in 7769 ms."
+}
+[2025-02-12 15:01:06.204] [error] [SystemApi] {
+  "eventId": "",
+  "message": "[PHX::STDERR] [libprotobuf ERROR C:\\.conan\\2f3e61\\1\\src\\src\\google\\protobuf\\wire_format_lite.cc:618] String field 'Shure.Phoenix.PropertyData.PropertyData.stringData' contains invalid UTF-8 data when serializing a protocol buffer. Use the 'bytes' type if you intend to send raw bytes. "
+}
+[2025-02-12 15:01:06.879] [error] [SystemApi] {
+  "error": {
+    "method": "/Shure.Phoenix.DeviceStatus.DeviceManager/GetDeviceInfo",
+    "code": 5,
+    "status": "NOT_FOUND",
+    "message": "Device information is not available"
+  },
+  "eventId": "",
+  "message": "[SystemAPI::ErrorHandlingMiddleware] Call failed due to gRPC client error."
+}
+[2025-02-12 15:01:06.880] [error] [SystemApi] {
+  "error": {
+    "method": "/Shure.Phoenix.DeviceStatus.DeviceManager/GetDeviceInfo",
+    "code": 5,
+    "status": "NOT_FOUND",
+    "message": "Device information is not available"
+  },
+  "eventId": "",
+  "message": "[SystemAPI::ErrorHandlingMiddleware] Call failed due to gRPC client error."
+}
+[2025-02-12 15:01:08.658] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::NetworkDeviceBase::HandleOnSubscribeRequestComplete: [devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46f9-0000-11dd-a000-000eddcccccc|devSt:DS_READY|protId:ESTA.DMP|protAddr:192.168.10.97] Unexpected subscription reference (myRef != subscrRef) received : 0x000002168D428A20"
+}
+[2025-02-12 15:01:09.453] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:09.676] [error] [SystemApi] {
+  "error": {
+    "key": "GENERIC:SERIAL_NUM",
+    "code": "RT_FAILURE",
+    "description": ""
+  },
+  "eventId": "",
+  "message": "[SysAPI::Utils] Property request failed"
+}
+[2025-02-12 15:01:09.949] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:09.972] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:10.175] [error] [SystemApi] {
+  "eventId": "",
+  "message": "[PHX::STDERR] [libprotobuf ERROR C:\\.conan\\2f3e61\\1\\src\\src\\google\\protobuf\\wire_format_lite.cc:618] String field 'Shure.Phoenix.PropertyData.PropertyData.stringData' contains invalid UTF-8 data when serializing a protocol buffer. Use the 'bytes' type if you intend to send raw bytes. "
+}
+[2025-02-12 15:01:10.437] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:10.801] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:11.266] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:11.400] [error] [SystemApi] {
+  "error": {
+    "method": "/Shure.Phoenix.DeviceStatus.DeviceManager/GetDeviceInfo",
+    "code": 5,
+    "status": "NOT_FOUND",
+    "message": "Device information is not available"
+  },
+  "eventId": "",
+  "message": "[SystemAPI::ErrorHandlingMiddleware] Call failed due to gRPC client error."
+}
+[2025-02-12 15:01:11.401] [error] [SystemApi] {
+  "error": {
+    "method": "/Shure.Phoenix.DeviceStatus.DeviceManager/GetDeviceInfo",
+    "code": 5,
+    "status": "NOT_FOUND",
+    "message": "Device information is not available"
+  },
+  "eventId": "",
+  "message": "[SystemAPI::ErrorHandlingMiddleware] Call failed due to gRPC client error."
+}
+[2025-02-12 15:01:11.510] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:11.782] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:12.143] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:12.577] [error] [SystemApi] {
+  "error": {
+    "key": "GENERIC:SERIAL_NUM",
+    "code": "RT_FAILURE",
+    "description": ""
+  },
+  "eventId": "",
+  "message": "[SysAPI::Utils] Property request failed"
+}
+[2025-02-12 15:01:12.659] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:12.660] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:13.183] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:14.118] [error] [SystemApi] {
+  "error": {
+    "key": "NETWORK_AUDIO:DEVICE_NAME",
+    "code": "RT_FAILURE",
+    "description": ""
+  },
+  "eventId": "",
+  "message": "[SysAPI::Utils] Property request failed"
+}
+[2025-02-12 15:01:14.119] [error] [SystemApi] {
+  "error": {
+    "key": "NETWORK_AUDIO_ETH:PRIMARY_ETH_CURRENT_IP_GATEWAY",
+    "code": "RT_FAILURE",
+    "description": ""
+  },
+  "eventId": "",
+  "message": "[SysAPI::Utils] Property request failed"
+}
+[2025-02-12 15:01:14.119] [error] [SystemApi] {
+  "error": {
+    "key": "NETWORK_AUDIO_ETH:PRIMARY_ETH_CURRENT_IP_ADDR",
+    "code": "RT_FAILURE",
+    "description": ""
+  },
+  "eventId": "",
+  "message": "[SysAPI::Utils] Property request failed"
+}
+[2025-02-12 15:01:14.120] [error] [SystemApi] {
+  "error": {
+    "key": "NETWORK_AUDIO_ETH:PRIMARY_ETH_IP_MODE",
+    "code": "RT_FAILURE",
+    "description": ""
+  },
+  "eventId": "",
+  "message": "[SysAPI::Utils] Property request failed"
+}
+[2025-02-12 15:01:14.120] [error] [SystemApi] {
+  "error": {
+    "key": "NETWORK_AUDIO_ETH:PRIMARY_ETH_MAC_48",
+    "code": "RT_FAILURE",
+    "description": ""
+  },
+  "eventId": "",
+  "message": "[SysAPI::Utils] Property request failed"
+}
+[2025-02-12 15:01:14.120] [error] [SystemApi] {
+  "error": {
+    "key": "NETWORK_AUDIO_ETH:PRIMARY_ETH_CURRENT_IP_SUBNET",
+    "code": "RT_FAILURE",
+    "description": ""
+  },
+  "eventId": "",
+  "message": "[SysAPI::Utils] Property request failed"
+}
+[2025-02-12 15:01:14.306] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:14.307] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:14.375] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:14.528] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:14.735] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:15.172] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:15.173] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:15.346] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] DevSubscriptionManager Timeout deviceId: ddff46e1-0000-11dd-a000-000eddcccccc Property Subscribe: \nNETWORK_AUDIO:CONTROL_SWITCH_CONFIGURATION, \n"
+}
+[2025-02-12 15:01:15.347] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::NetworkDeviceBase::HandleOnSubscribeRequestComplete: [mdulType:MODULE_NETWORK_AUDIO_ETHERNET|devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46e1-0000-11dd-a000-000eddcccccc|devSt:DS_INITIALIZING|protId:ESTA.DMP|protAddr:192.168.10.22] Unexpected subscription reference (myRef != subscrRef) received : 0x000002168CAC4780"
+}
+[2025-02-12 15:01:15.348] [error] [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::NetworkDeviceBase::HandleOnMySusbcribeRequestComplete: [mdulType:MODULE_NETWORK_AUDIO_ETHERNET|devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46e1-0000-11dd-a000-000eddcccccc|devSt:DS_INITIALIZING|protId:ESTA.DMP|protAddr:192.168.10.22] Subscription rejected. Key: NETWORK_AUDIO:CONTROL_SWITCH_CONFIGURATION Error: PRV_ERR_NETWORK_ERROR"
+}
+[2025-02-12 15:01:15.348] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::Phase::ProcessSubscrResponse: [phOrd:0|phOvSt:PRCS_RUNNING_SUB|phSubSt:PCR_UNAVAILABLE|phGetSt:PCR_UNAVAILABLE|phSubStats:117-0-0|phGetStats:0-0-0|devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46e1-0000-11dd-a000-000eddcccccc] PHASE retrying SUBSCRIBE, retry # 117. Retrying in 3907 ms."
+}
+[2025-02-12 15:01:15.376] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:15.530] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:15.532] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:15.792] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:17.312] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:17.414] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:17.579] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:17.867] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:18.222] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:18.956] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:18.957] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:19.073] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:19.074] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:19.652] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:19.671] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:19.672] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:19.673] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:19.722] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:19.793] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:19.818] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:20.159] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:20.204] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:20.230] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:20.440] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:20.454] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:20.599] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:20.620] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:20.679] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:20.770] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:20.779] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:20.866] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:20.890] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:20.938] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::NetworkDeviceBase::HandleOnSubscribeRequestComplete: [devCat:MXWN_APTCH2|devType:OPERA N APTCH2 DM|iid:2.0.0|model:MXWAPXD2|devId:dda6c1d5-0000-11dd-a000-000eddcccccc|devSt:DS_READY|protId:ESTA.DMP|protAddr:192.168.10.17] Unexpected subscription reference (myRef != subscrRef) received : 0x000002168B635B10"
+}
+[2025-02-12 15:01:20.957] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:20.966] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:20.978] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:20.987] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:20.996] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.012] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.024] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.034] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.044] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.059] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.085] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.142] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.160] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.164] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.167] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.171] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.178] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.185] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.186] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.192] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.194] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.204] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.206] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.213] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.214] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.227] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.228] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.239] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.245] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.253] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.261] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.264] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.270] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.273] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.284] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.294] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.299] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.305] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.308] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.315] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.466] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] DevSubscriptionManager Timeout deviceId: ddff46e1-0000-11dd-a000-000eddcccccc Property Get: \nGENERIC:SERIAL_NUM, GENERIC:PRODUCT_FIRMWARE_VALID, GENERIC:PRODUCT_FIRMWARE_VERSION, \n"
+}
+[2025-02-12 15:01:21.466] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::Phase::ProcessGetResponse: [phOrd:0|phOvSt:PRCS_RUNNING_GET|phSubSt:PCR_SUCCEES|phGetSt:PCR_UNAVAILABLE|phSubStats:0-0-0|phGetStats:354-0-0|devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46e1-0000-11dd-a000-000eddcccccc] PHASE retrying GET, retry # 118. Retrying in 9094 ms."
+}
+[2025-02-12 15:01:21.812] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.842] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.846] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.850] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.854] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.857] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.865] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.870] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.884] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.889] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:21.894] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:27.516] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] DevSubscriptionManager Timeout deviceId: ddff46e1-0000-11dd-a000-000eddcccccc Property Subscribe: \nNETWORK_AUDIO:CONTROL_SWITCH_CONFIGURATION, \n"
+}
+[2025-02-12 15:01:27.516] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::NetworkDeviceBase::HandleOnSubscribeRequestComplete: [mdulType:MODULE_NETWORK_AUDIO_ETHERNET|devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46e1-0000-11dd-a000-000eddcccccc|devSt:DS_INITIALIZING|protId:ESTA.DMP|protAddr:192.168.10.22] Unexpected subscription reference (myRef != subscrRef) received : 0x000002168CAC4780"
+}
+[2025-02-12 15:01:27.517] [error] [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::NetworkDeviceBase::HandleOnMySusbcribeRequestComplete: [mdulType:MODULE_NETWORK_AUDIO_ETHERNET|devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46e1-0000-11dd-a000-000eddcccccc|devSt:DS_INITIALIZING|protId:ESTA.DMP|protAddr:192.168.10.22] Subscription rejected. Key: NETWORK_AUDIO:CONTROL_SWITCH_CONFIGURATION Error: PRV_ERR_NETWORK_ERROR"
+}
+[2025-02-12 15:01:27.517] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::Phase::ProcessSubscrResponse: [phOrd:0|phOvSt:PRCS_RUNNING_SUB|phSubSt:PCR_UNAVAILABLE|phGetSt:PCR_UNAVAILABLE|phSubStats:118-0-0|phGetStats:0-0-0|devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46e1-0000-11dd-a000-000eddcccccc] PHASE retrying SUBSCRIBE, retry # 118. Retrying in 6428 ms."
+}
+[2025-02-12 15:01:31.506] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::NetworkDeviceBase::HandleOnSubscribeRequestComplete: [devCat:MXWN_APTCH2|devType:OPERA N APTCH2 DM|iid:2.0.0|model:MXWAPXD2|devId:dda6c1d5-0000-11dd-a000-000eddcccccc|devSt:DS_READY|protId:ESTA.DMP|protAddr:192.168.10.17] Unexpected subscription reference (myRef != subscrRef) received : 0x000002168B635B10"
+}
+[2025-02-12 15:01:36.711] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] DevSubscriptionManager Timeout deviceId: ddff46e1-0000-11dd-a000-000eddcccccc Property Get: \nGENERIC:SERIAL_NUM, GENERIC:PRODUCT_FIRMWARE_VALID, GENERIC:PRODUCT_FIRMWARE_VERSION, \n"
+}
+[2025-02-12 15:01:36.712] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::Phase::ProcessGetResponse: [phOrd:0|phOvSt:PRCS_RUNNING_GET|phSubSt:PCR_SUCCEES|phGetSt:PCR_UNAVAILABLE|phSubStats:0-0-0|phGetStats:357-0-0|devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46e1-0000-11dd-a000-000eddcccccc] PHASE retrying GET, retry # 119. Retrying in 1795 ms."
+}
+[2025-02-12 15:01:39.108] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::NetworkDeviceBase::HandleOnSubscribeRequestComplete: [devCat:MXWN_HHMT|devType:OPERA N HHMT DM|iid:1.0.0|model:MXW2X|devId:1c052e64-0000-11dd-a000-000eddcccccc|devSt:DS_READY|protId:ESTA.DMP|protAddr:192.168.10.17] Unexpected subscription reference (myRef != subscrRef) received : 0x000002168D428B40"
+}
+[2025-02-12 15:01:42.762] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] DevSubscriptionManager Timeout deviceId: ddff46e1-0000-11dd-a000-000eddcccccc Property Subscribe: \nNETWORK_AUDIO:CONTROL_SWITCH_CONFIGURATION, \n"
+}
+[2025-02-12 15:01:42.763] [error] [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::NetworkDeviceBase::HandleOnMySusbcribeRequestComplete: [mdulType:MODULE_NETWORK_AUDIO_ETHERNET|devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46e1-0000-11dd-a000-000eddcccccc|devSt:DS_INITIALIZING|protId:ESTA.DMP|protAddr:192.168.10.22] Subscription rejected. Key: NETWORK_AUDIO:CONTROL_SWITCH_CONFIGURATION Error: PRV_ERR_NETWORK_ERROR"
+}
+[2025-02-12 15:01:42.764] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::Phase::ProcessSubscrResponse: [phOrd:0|phOvSt:PRCS_RUNNING_SUB|phSubSt:PCR_UNAVAILABLE|phGetSt:PCR_UNAVAILABLE|phSubStats:119-0-0|phGetStats:0-0-0|devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46e1-0000-11dd-a000-000eddcccccc] PHASE retrying SUBSCRIBE, retry # 119. Retrying in 2915 ms."
+}
+[2025-02-12 15:01:48.955] [error] [SystemApi] {
+  "properties": [
+    "RF_SCAN:SCAN_STATUS",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_SD",
+    "RF_SCAN:CUMULATIVE_AGGRESSIVE_HD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_SD",
+    "RF_SCAN:CUMULATIVE_CONSERVATIVE_HD",
+    "RF_SCAN:CURRENT_RFI_DATA",
+    "RF_SCAN:CURRENT_AGGRESSIVE_SD",
+    "RF_SCAN:CURRENT_AGGRESSIVE_HD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_SD",
+    "RF_SCAN:CURRENT_CONSERVATIVE_HD",
+    "RF_SCAN:CUMULATIVE_RFI_DATA"
+  ],
+  "eventId": "",
+  "message": "[SysAPI::DectRfScanSpectrumFeature] Error occurred while subscribing RF scan result properties."
+}
+[2025-02-12 15:01:48.965] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] DevSubscriptionManager Timeout deviceId: ddff46e1-0000-11dd-a000-000eddcccccc Property Get: \nGENERIC:SERIAL_NUM, GENERIC:PRODUCT_FIRMWARE_VALID, GENERIC:PRODUCT_FIRMWARE_VERSION, \n"
+}
+[2025-02-12 15:01:48.966] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::Phase::ProcessGetResponse: [phOrd:0|phOvSt:PRCS_RUNNING_GET|phSubSt:PCR_SUCCEES|phGetSt:PCR_UNAVAILABLE|phSubStats:0-0-0|phGetStats:360-0-0|devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46e1-0000-11dd-a000-000eddcccccc] PHASE retrying GET, retry # 120. Retrying in 3384 ms."
+}
+[2025-02-12 15:01:50.216] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::NetworkDeviceBase::HandleOnSubscribeRequestComplete: [devCat:MXWN_APTCH2|devType:OPERA N APTCH2 DM|iid:2.0.0|model:MXWAPXD2|devId:dda6c1d5-0000-11dd-a000-000eddcccccc|devSt:DS_READY|protId:ESTA.DMP|protAddr:192.168.10.17] Unexpected subscription reference (myRef != subscrRef) received : 0x000002168B635B10"
+}
+[2025-02-12 15:01:54.965] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] DevSubscriptionManager Timeout deviceId: ddff46e1-0000-11dd-a000-000eddcccccc Property Subscribe: \nNETWORK_AUDIO:CONTROL_SWITCH_CONFIGURATION, \n"
+}
+[2025-02-12 15:01:54.965] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::NetworkDeviceBase::HandleOnSubscribeRequestComplete: [mdulType:MODULE_NETWORK_AUDIO_ETHERNET|devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46e1-0000-11dd-a000-000eddcccccc|devSt:DS_INITIALIZING|protId:ESTA.DMP|protAddr:192.168.10.22] Unexpected subscription reference (myRef != subscrRef) received : 0x000002168B635E70"
+}
+[2025-02-12 15:01:54.966] [error] [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::NetworkDeviceBase::HandleOnMySusbcribeRequestComplete: [mdulType:MODULE_NETWORK_AUDIO_ETHERNET|devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46e1-0000-11dd-a000-000eddcccccc|devSt:DS_INITIALIZING|protId:ESTA.DMP|protAddr:192.168.10.22] Subscription rejected. Key: NETWORK_AUDIO:CONTROL_SWITCH_CONFIGURATION Error: PRV_ERR_NETWORK_ERROR"
+}
+[2025-02-12 15:01:54.966] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::Phase::ProcessSubscrResponse: [phOrd:0|phOvSt:PRCS_RUNNING_SUB|phSubSt:PCR_UNAVAILABLE|phGetSt:PCR_UNAVAILABLE|phSubStats:120-0-0|phGetStats:0-0-0|devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46e1-0000-11dd-a000-000eddcccccc] PHASE retrying SUBSCRIBE, retry # 120. Retrying in 3690 ms."
+}
+[2025-02-12 15:02:01.116] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] DevSubscriptionManager Timeout deviceId: ddff46e1-0000-11dd-a000-000eddcccccc Property Get: \nGENERIC:SERIAL_NUM, GENERIC:PRODUCT_FIRMWARE_VALID, GENERIC:PRODUCT_FIRMWARE_VERSION, \n"
+}
+[2025-02-12 15:02:01.117] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::Phase::ProcessGetResponse: [phOrd:0|phOvSt:PRCS_RUNNING_GET|phSubSt:PCR_SUCCEES|phGetSt:PCR_UNAVAILABLE|phSubStats:0-0-0|phGetStats:363-0-0|devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46e1-0000-11dd-a000-000eddcccccc] PHASE retrying GET, retry # 121. Retrying in 9958 ms."
+}
+[2025-02-12 15:02:07.167] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] DevSubscriptionManager Timeout deviceId: ddff46e1-0000-11dd-a000-000eddcccccc Property Subscribe: \nNETWORK_AUDIO:CONTROL_SWITCH_CONFIGURATION, \n"
+}
+[2025-02-12 15:02:07.167] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::NetworkDeviceBase::HandleOnSubscribeRequestComplete: [mdulType:MODULE_NETWORK_AUDIO_ETHERNET|devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46e1-0000-11dd-a000-000eddcccccc|devSt:DS_INITIALIZING|protId:ESTA.DMP|protAddr:192.168.10.22] Unexpected subscription reference (myRef != subscrRef) received : 0x000002168B635E70"
+}
+[2025-02-12 15:02:07.168] [error] [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::NetworkDeviceBase::HandleOnMySusbcribeRequestComplete: [mdulType:MODULE_NETWORK_AUDIO_ETHERNET|devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46e1-0000-11dd-a000-000eddcccccc|devSt:DS_INITIALIZING|protId:ESTA.DMP|protAddr:192.168.10.22] Subscription rejected. Key: NETWORK_AUDIO:CONTROL_SWITCH_CONFIGURATION Error: PRV_ERR_NETWORK_ERROR"
+}
+[2025-02-12 15:02:07.168] [warn]  [PHX] {
+  "eventId": "",
+  "message": "[PHX] PHX::Phase::ProcessSubscrResponse: [phOrd:0|phOvSt:PRCS_RUNNING_SUB|phSubSt:PCR_UNAVAILABLE|phGetSt:PCR_UNAVAILABLE|phSubStats:121-0-0|phGetStats:0-0-0|devCat:MXWN_APX|devType:OPERA N APX|iid:1.0.0|model:MXWAPX|devId:ddff46e1-0000-11dd-a000-000eddcccccc] PHASE retrying SUBSCRIBE, retry # 121. Retrying in 4957 ms."
+}
