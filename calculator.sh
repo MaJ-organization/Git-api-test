@@ -1,5 +1,5 @@
 a=30
 b=20
 c=$(($a - $b))
-echo $c
+echo result is $c
 
